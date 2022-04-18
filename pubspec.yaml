@@ -1,0 +1,32 @@
+name: zhungry
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  dashbook: ^0.1.6
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/zhungry/assets/images/logo.svg
+    - packages/zhungry/assets/images/vector.svg
+    - packages/zhungry/assets/images/linelayout.svg
+    - packages/zhungry/assets/images/iconsmdisearch.svg
+    - packages/zhungry/assets/images/emotion.svg
+    - packages/zhungry/assets/images/sendbuttonasbutton.svg
+    - packages/zhungry/assets/images/avatarsource.png
+    - packages/zhungry/assets/images/line5.svg
+    - packages/zhungry/assets/images/ellipsea.png
+    - packages/zhungry/assets/images/avatariconsmdiaccountcircle.png
+    - packages/zhungry/assets/images/changeimg.svg
+    - packages/zhungry/assets/images/iconsmdicreateoutlined.svg
